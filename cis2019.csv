@@ -1,0 +1,343 @@
+gender,age_range,credits_attempted,credits_passed,gpa,grad_year,home,major
+M,35-64,186,158,2.438,2009,Hawaii,Information Systems
+M,30-34,84,70,2.622,2009,Hawaii,Information Systems
+M,30-34,148,120,2.735,2014,Hawaii,Information Systems
+M,25-29,153,150,3.303,2012,Hawaii,Information Systems
+M,25-29,154.5,148.5,3.144,2009,Asia,Information Systems
+M,22-24,134,122,2.913,2009,US Mainland,Information Systems
+M,25-29,181,163,2.748,2009,Pacific,Information Technology
+M,30-34,116,107,2.845,2009,Hawaii,Information Systems
+M,25-29,180,162,2.915,2011,Hawaii,Information Technology
+F,25-29,188,160,2.765,2012,Hawaii,Information Technology
+M,25-29,134,134,3.785,2009,Hawaii,Information Systems
+M,25-29,207.5,191.5,3.221,2009,Asia,Information Systems
+M,25-29,172,172,3.88,2010,Hawaii,Computer Science
+M,25-29,172,172,3.88,2010,Hawaii,Information Technology
+M,25-29,162.5,162.5,3.809,2011,Asia,Computer Science
+M,25-29,171,159,3.052,2009,Other International,Information Systems
+M,25-29,142,129,3.257,2009,Hawaii,Information Systems
+M,22-24,182.5,164.5,3.106,2009,Asia,Computer Science
+F,35-64,220,182.5,3.063,2009,Asia,Information Systems
+M,25-29,164,158,3.134,2010,Asia,Information Technology
+M,25-29,149,140,3.453,2010,US Mainland,Information Technology
+M,25-29,151,145,3.079,2009,Hawaii,Information Systems
+M,25-29,137,128,2.849,2009,Other International,Information Systems
+M,25-29,137,128,2.849,2009,Other International,Information Technology
+M,25-29,164.5,164.5,3.519,2010,Asia,Information Systems
+M,25-29,193.5,193.5,3.512,2010,Asia,Information Technology
+M,25-29,193.5,193.5,3.512,2010,Asia,Information Systems
+F,22-24,136,125,2.898,2010,Hawaii,Information Systems
+M,25-29,134,128,3.414,2009,Asia,Information Systems
+M,25-29,175,166,3.417,2012,US Mainland,Computer Science
+M,25-29,175,166,3.417,2012,US Mainland,Information Technology
+M,30-34,178,155,2.852,2013,Other International,Information Systems
+M,25-29,87,81,3.527,2011,US Mainland,Information Systems
+M,22-24,162,162,3.719,2010,Hawaii,Information Technology
+M,25-29,125,117,3.105,2010,US Mainland,Computer Science
+F,25-29,192,171,3.42,2010,Asia,Information Systems
+M,22-24,164,164,3.982,2010,Pacific,Computer Science
+F,22-24,198,177,2.799,2009,Pacific,Information Systems
+M,25-29,152.5,140.5,3.138,2009,Asia,Information Systems
+F,22-24,156,132,2.823,2009,Asia,Information Technology
+M,25-29,131,113,2.937,2009,Pacific,Information Systems
+M,30-34,190,157.5,2.624,2012,Asia,Information Systems
+F,25-29,177,171,3.099,2012,Pacific,Information Systems
+F,22-24,143,136,3.018,2009,US Mainland,Information Systems
+M,22-24,151,151,3.319,2011,US Mainland,Information Technology
+M,25-29,151,151,3.803,2009,Asia,Computer Science
+M,30-34,154,142,3.254,2017,Asia,Computer Science
+M,25-29,167,167,3.641,2013,US Mainland,Computer Science
+M,25-29,142,127,3.495,2010,US Mainland,Information Technology
+M,25-29,171.5,138,2.863,2012,Pacific,Information Technology
+F,25-29,152,140,2.657,2009,Pacific,Information Systems
+M,25-29,164.5,142.5,3.156,2009,Asia,Information Systems
+M,25-29,190.5,177.5,2.785,2010,Asia,Information Systems
+M,25-29,153,129,3.226,2012,Pacific,Information Technology
+M,22-24,119,112,2.921,2009,Other International,Information Systems
+M,22-24,127,121,3.22,2009,Asia,Information Systems
+M,25-29,163,135,2.829,2010,Asia,Information Technology
+M,25-29,157,137,3.143,2011,Asia,Information Technology
+M,22-24,156,154.5,3.431,2010,Asia,Information Systems
+M,25-29,131,131,3.54,2009,Asia,Information Systems
+M,30-34,163,154.5,2.985,2010,Asia,Information Technology
+M,22-24,168,151,3.523,2014,Pacific,Computer Science
+M,25-29,167,161,3.109,2014,Hawaii,Information Technology
+F,22-24,151,151,3.296,2010,Hawaii,Information Systems
+M,22-24,136,136,3.892,2012,Hawaii,Computer Science
+M,25-29,124,124,3.36,2011,Other International,Information Systems
+M,22-24,164,159,3.643,2013,Pacific,Computer Science
+M,25-29,165,165,3.969,2013,Hawaii,Information Systems
+M,30-34,166,162,3.069,2010,Asia,Information Systems
+M,25-29,189,189,3.645,2011,Asia,Information Systems
+M,25-29,102,102,3.497,2009,Asia,Information Systems
+F,18-21,123,120,3.313,2009,Hawaii,Information Systems
+M,22-24,87,87,3.911,2009,US Mainland,Computer Science
+M,25-29,154,138,2.775,2011,Asia,Information Systems
+M,25-29,149,138,3.222,2010,Other International,Computer Science
+M,25-29,168,162,2.949,2011,Asia,Information Technology
+M,25-29,162,143,2.801,2011,Pacific,Information Technology
+M,25-29,152,146,2.768,2013,US Mainland,Information Technology
+M,25-29,129,129,3.972,2009,US Mainland,Computer Science
+F,22-24,138,132,3.137,2012,Asia,Information Systems
+M,30-34,140,137,3.367,2010,Asia,Information Technology
+M,25-29,81,69,2.919,2009,Other International,Information Systems
+M,30-34,164.5,155.5,2.894,2011,Asia,Information Systems
+F,22-24,65,65,3.474,2010,US Mainland,Information Systems
+F,35-64,151,144,3.777,2017,Pacific,Information Systems
+F,35-64,151,144,3.777,2017,Pacific,Information Technology
+M,25-29,166.5,156,2.903,2011,Pacific,Information Technology
+M,25-29,152.5,146.5,3.099,2011,Pacific,Information Systems
+M,25-29,152.5,146.5,3.099,2011,Pacific,Information Technology
+F,18-21,158,158,3.612,2011,US Mainland,Information Technology
+M,22-24,134,128,3.429,2014,Pacific,Information Technology
+M,25-29,193.5,162.5,3.252,2012,Asia,Information Systems
+M,25-29,130,127,3.617,2013,Asia,Computer Science
+M,25-29,149,143,3.031,2011,Pacific,Information Technology
+F,22-24,161.5,155.5,2.907,2011,Asia,Information Systems
+M,25-29,130,130,3.549,2010,Asia,Information Technology
+M,25-29,156,150,3.096,2013,Other International,Information Systems
+M,30-34,139,135,2.679,2012,Other International,Information Technology
+M,25-29,148,148,3.747,2011,Asia,Information Technology
+M,25-29,148,148,3.747,2011,Asia,Information Systems
+M,25-29,149.5,140,3.122,2013,Asia,Information Systems
+M,22-24,149,140,2.946,2013,Asia,Information Systems
+M,25-29,148,145,3.388,2011,Pacific,Information Technology
+M,25-29,194,183,3.374,2012,US Mainland,Computer Science
+M,25-29,194,183,3.374,2012,US Mainland,Information Technology
+M,25-29,170,151,3.211,2012,Pacific,Information Technology
+M,25-29,162.5,154.5,2.964,2014,Asia,Computer Science
+M,25-29,143.5,139,3.079,2011,Asia,Information Systems
+F,30-34,81,81,3.493,2010,Asia,Information Systems
+M,25-29,170,166,3.581,2012,Asia,Information Systems
+M,25-29,170,166,3.581,2012,Asia,Information Technology
+M,25-29,190,153,3.569,2019,Asia,Information Systems
+M,25-29,132,132,3.385,2016,Hawaii,Computer Science
+M,25-29,132,123,3.347,2011,Pacific,Information Systems
+M,25-29,115,109,3.101,2012,Hawaii,Information Technology
+F,22-24,86,74,2.941,2014,Pacific,Information Technology
+M,30-34,158,138,3.433,2012,Pacific,Information Technology
+M,25-29,113,110,3.23,2012,US Mainland,Information Technology
+M,25-29,156,150,3.154,2012,Pacific,Information Systems
+F,22-24,148,148,3.834,2012,Asia,Information Systems
+M,25-29,122,122,3.702,2015,US Mainland,Computer Science
+M,25-29,139,136,2.946,2017,Pacific,Information Technology
+M,30-34,183,171,2.708,2013,Asia,Information Systems
+M,25-29,172,172,3.653,2013,Hawaii,Computer Science
+M,30-34,160,158,3.88,2013,Other International,Information Systems
+F,18-21,140,128,3.008,2013,US Mainland,Information Systems
+M,30-34,99,84,3.167,2012,Other International,Information Technology
+M,25-29,152,146,3.369,2012,Asia,Information Systems
+M,25-29,164,158,3.578,2013,US Mainland,Information Systems
+M,25-29,171,157,3.61,2013,Asia,Computer Science
+M,22-24,154,142,2.503,2014,Asia,Information Technology
+M,30-34,148,145,3.379,2013,Asia,Information Technology
+M,30-34,131,131,3.254,2012,Asia,Information Technology
+M,25-29,176,146,3.006,2017,Asia,Information Technology
+F,22-24,107,107,3.47,2014,Pacific,Computer Science
+M,22-24,115,109,3.237,2012,Asia,Information Technology
+M,25-29,147,147,3.858,2013,US Mainland,Information Systems
+M,30-34,103,103,3.752,2012,US Mainland,Computer Science
+M,25-29,144,132,3.12,2013,Asia,Information Technology
+M,25-29,136,122,3.048,2014,Pacific,Information Technology
+M,22-24,98,98,3.687,2015,US Mainland,Computer Science
+M,25-29,125.5,120.5,2.948,2017,US Mainland,Computer Science
+M,25-29,122,116,2.824,2013,Pacific,Information Technology
+F,25-29,171,167,3.872,2014,Asia,Computer Science
+M,30-34,130,130,3.007,2012,Other International,Information Technology
+M,25-29,174,171,3.634,2017,Asia,Computer Science
+M,22-24,106,106,3.346,2013,US Mainland,Information Technology
+M,25-29,169,129.5,2.716,2018,Pacific,Information Technology
+M,30-34,114,106,2.731,2019,US Mainland,Computer Science
+M,25-29,73,73,3.401,2012,US Mainland,Computer Science
+M,25-29,159,142,3.16,2014,Asia,Information Systems
+M,25-29,117,108,3.277,2013,US Mainland,Information Technology
+M,25-29,111,105,3.321,2013,US Mainland,Computer Science
+M,25-29,156,156,3.557,2014,Asia,Information Technology
+M,22-24,151,140,2.754,2014,Other International,Information Systems
+M,30-34,90,90,3.867,2014,US Mainland,Information Technology
+F,22-24,87,87,3.61,2012,Pacific,Information Technology
+M,22-24,158,153,3.356,2017,Asia,Computer Science
+M,25-29,153,132,2.608,2014,Pacific,Information Technology
+M,35-64,134,122,2.895,2018,Hawaii,Information Systems
+M,25-29,154,143,2.477,2015,Pacific,Information Technology
+M,22-24,140,140,3.777,2014,Asia,Information Systems
+M,25-29,149,138,2.717,2016,Hawaii,Information Technology
+M,25-29,118,118,3.474,2016,Asia,Information Technology
+F,25-29,95,95,3.927,2013,US Mainland,Information Systems
+M,25-29,150,150,3.251,2015,Asia,Computer Science
+M,22-24,146,146,3.67,2014,Other International,Information Technology
+M,25-29,136,130,2.937,2014,US Mainland,Computer Science
+F,25-29,169,163,3.036,2014,Pacific,Information Technology
+M,25-29,84,81,3.284,2014,US Mainland,Computer Science
+M,22-24,152,144,3.66,2017,Asia,Information Technology
+F,25-29,150,130,3.142,2014,Pacific,Information Technology
+F,22-24,151.5,138,3.351,2016,Pacific,Information Technology
+M,25-29,104,78,3.073,2016,US Mainland,Information Systems
+M,22-24,145,144,3.438,2017,Hawaii,Information Technology
+M,35-64,139,130,3.146,2019,Asia,Information Technology
+M,25-29,134,131,3.063,2014,Pacific,Information Technology
+M,25-29,131,131,3.606,2014,Pacific,Information Systems
+M,25-29,103,103,3.402,2013,Pacific,Computer Science
+M,22-24,91,91,2.762,2013,US Mainland,Information Technology
+M,25-29,123,123,3.73,2014,US Mainland,Information Technology
+M,25-29,156,148,3.709,2019,Asia,Computer Science
+M,35-64,168.5,132,2.606,2016,Asia,Information Technology
+M,22-24,132,124,3.377,2017,US Mainland,Computer Science
+M,25-29,126,120,3.264,2014,Asia,Information Technology
+M,22-24,67,67,3.978,2017,US Mainland,Computer Science
+M,22-24,153,153,3.719,2015,Asia,Computer Science
+M,25-29,154,145,3.491,2017,Asia,Information Technology
+M,22-24,151,148,3.48,2015,Other International,Computer Science
+F,25-29,135,129,3.263,2014,Pacific,Information Technology
+F,25-29,148,145,3.526,2019,Pacific,Information Technology
+M,22-24,131,131,3.91,2013,Pacific,Information Technology
+M,22-24,131,131,3.91,2013,Pacific,Computer Science
+M,25-29,147,136,3.209,2018,Pacific,Information Technology
+M,22-24,161,158,3.553,2015,Asia,Information Systems
+M,22-24,90,90,3.538,2013,US Mainland,Information Technology
+M,18-21,131,131,3.024,2014,Asia,Information Technology
+F,25-29,159.5,143.5,2.681,2019,Pacific,Information Systems
+M,30-34,134,129.5,3.245,2015,Other International,Information Technology
+M,22-24,143,137,3.332,2015,Asia,Information Systems
+M,25-29,148,127,2.757,2018,Pacific,Information Technology
+M,22-24,143,118,2.717,2018,US Mainland,Information Technology
+M,25-29,170,160,3.268,2018,Asia,Information Systems
+M,25-29,97,94,3.795,2019,US Mainland,Computer Science
+M,25-29,112,112,3.425,2015,US Mainland,Computer Science
+M,18-21,139,139,3.987,2015,Asia,Computer Science
+M,25-29,152,134,3.488,2016,Asia,Information Technology
+M,25-29,164,149,3.201,2019,Asia,Information Technology
+M,22-24,156,156,3.941,2018,Asia,Computer Science
+M,25-29,138,138,3.564,2018,US Mainland,Information Systems
+M,25-29,155,149,2.95,2016,Pacific,Information Technology
+M,22-24,146,146,3.791,2019,Pacific,Information Technology
+M,25-29,129,129,3.55,2016,Asia,Information Technology
+M,25-29,155,151,3.426,2016,Asia,Information Technology
+M,18-21,112.5,100.5,2.805,2014,US Mainland,Information Technology
+M,25-29,82,82,3.082,2014,US Mainland,Information Technology
+M,25-29,123,120,3.413,2016,Other International,Computer Science
+M,25-29,139,136,3.026,2016,Pacific,Information Technology
+M,25-29,128,128,3.892,2017,Asia,Information Technology
+M,25-29,133,132,3.968,2016,Asia,Information Technology
+F,25-29,143,140,3.797,2016,US Mainland,Computer Science
+M,22-24,146,146,3.833,2019,Hawaii,Information Systems
+M,30-34,62,59,3.532,2014,Other International,Information Systems
+M,35-64,169,157,3.019,2017,Asia,Information Technology
+M,25-29,100,94,3.447,2016,US Mainland,Computer Science
+M,25-29,101,101,2.941,2015,US Mainland,Information Technology
+M,25-29,157,145,3.357,2018,Pacific,Information Technology
+M,25-29,157,145,3.357,2018,Pacific,Information Systems
+F,22-24,132.5,129.5,3.806,2018,US Mainland,Computer Science
+M,18-21,113,113,3.488,2017,US Mainland,Computer Science
+F,22-24,157,157,3.676,2016,Pacific,Information Technology
+M,25-29,130,130,3.162,2017,Hawaii,Computer Science
+M,22-24,126,126,3.879,2019,US Mainland,Computer Science
+F,25-29,144,131,3.03,2019,Asia,Computer Science
+M,25-29,77,77,3.136,2015,US Mainland,Information Technology
+M,30-34,146,143,3.893,2018,Asia,Computer Science
+M,22-24,114,114,3.539,2016,Pacific,Information Technology
+M,30-34,112,112,3.454,2016,Asia,Information Technology
+M,22-24,114,114,3.129,2016,Pacific,Information Technology
+M,25-29,129,129,3.719,2017,Asia,Information Technology
+M,25-29,120,117,3.272,2016,Asia,Information Technology
+M,22-24,119,119,3.708,2018,Other International,Computer Science
+M,25-29,102,102,3.968,2016,US Mainland,Computer Science
+M,22-24,126,123,3.832,2017,Pacific,Information Systems
+M,22-24,130,130,3.859,2017,Asia,Information Technology
+M,30-34,88,88,3.284,2016,US Mainland,Computer Science
+M,25-29,154.5,137.5,2.739,2017,Pacific,Information Technology
+M,25-29,164,147,3.011,2018,Hawaii,Information Technology
+M,25-29,133,120,3.183,2017,Pacific,Information Technology
+M,25-29,148,140,3.089,2018,Asia,Computer Science
+M,25-29,139,130,2.965,2017,Pacific,Information Technology
+F,18-21,112,112,3.765,2017,US Mainland,Information Systems
+M,22-24,161,161,3.812,2018,US Mainland,Computer Science
+M,18-21,133,133,3.865,2017,US Mainland,Computer Science
+M,25-29,81,81,3.41,2016,US Mainland,Information Technology
+F,18-21,134,124,2.844,2018,Hawaii,Computer Science
+M,22-24,135,134,3.82,2018,Asia,Computer Science
+M,25-29,127,121,3.623,2018,Other International,Information Systems
+F,22-24,106,106,3.975,2017,Other International,Information Technology
+M,25-29,202,197,4,2018,Asia,Computer Science
+M,25-29,130,130,3.986,2018,Asia,Computer Science
+M,25-29,148,133,2.874,2018,Asia,Information Technology
+M,25-29,139,139,3.39,2017,US Mainland,Computer Science
+M,35-64,135,135,3.902,2018,US Mainland,Information Systems
+F,25-29,137,134,3.275,2017,Pacific,Information Technology
+M,25-29,132,129,3.849,2018,US Mainland,Information Systems
+M,30-34,137,137,3.84,2019,Other International,Computer Science
+M,25-29,161.5,161.5,3.674,2019,Asia,Computer Science
+M,25-29,163,145,2.578,2019,Pacific,Information Technology
+M,25-29,162,142,3.027,2018,Pacific,Information Technology
+F,22-24,95,83,2.777,2018,Hawaii,Information Technology
+F,22-24,148,145,3.902,2018,Asia,Computer Science
+M,25-29,143,128,2.813,2018,Asia,Information Technology
+M,22-24,86,86,3.808,2017,US Mainland,Computer Science
+M,25-29,150,141,3.337,2019,Asia,Information Technology
+F,25-29,63,62,3.061,2016,Other International,Computer Science
+M,25-29,117,111,3.26,2018,Asia,Information Technology
+M,25-29,163,153,3.579,2019,Asia,Computer Science
+M,25-29,201,184,3.226,2019,Pacific,Information Systems
+M,25-29,201,184,3.226,2019,Pacific,Information Technology
+M,18-21,71,71,3.987,2017,Hawaii,Information Technology
+M,18-21,122,122,3.61,2018,Hawaii,Computer Science
+M,30-34,125,119,3.076,2019,Asia,Information Technology
+M,35-64,122,105,3.217,2019,Hawaii,Information Technology
+M,22-24,138,132,3.158,2019,Pacific,Information Technology
+M,25-29,162,159,3.806,2019,Asia,Information Technology
+M,25-29,162,159,3.806,2019,Asia,Computer Science
+M,25-29,132,129,3.311,2018,Pacific,Information Technology
+F,25-29,152,152,3.883,2019,Asia,Computer Science
+F,25-29,135,135,3.447,2019,Pacific,Information Technology
+F,25-29,131,123,3.175,2019,Pacific,Computer Science
+M,30-34,148,148,3.749,2019,Pacific,Computer Science
+M,30-34,132,132,3.412,2019,Asia,Information Systems
+M,30-34,149,149,3.982,2019,Asia,Computer Science
+M,25-29,123,120,3.502,2019,Asia,Information Technology
+F,18-21,111,111,3.768,2019,US Mainland,Computer Science
+M,25-29,95,92,3.231,2019,US Mainland,Computer Science
+M,22-24,131,127,3.84,2019,US Mainland,Computer Science
+M,22-24,114,114,3.81,2019,US Mainland,Computer Science
+F,25-29,96.5,93.5,3.272,2019,Pacific,Information Technology
+M,25-29,163.5,153,3.39,2009,Asia,Information Technology
+F,22-24,137,134,3.513,2009,US Mainland,Computer Science
+M,25-29,130,109,2.682,2009,US Mainland,Information Systems
+F,22-24,167,167,3.928,2009,Asia,Information Systems
+M,25-29,174,147.5,2.85,2009,Pacific,Computer Science
+M,25-29,157,138,2.935,2009,Pacific,Information Systems
+M,25-29,132.5,132.5,3.727,2010,Other International,Information Technology
+M,22-24,156.5,151.5,2.737,2010,Asia,Information Systems
+F,22-24,167,167,3.928,2009,Asia,Information Technology
+M,30-34,163,155,3.202,2010,Pacific,Information Systems
+M,25-29,191,181,3.281,2011,Hawaii,Computer Science
+M,25-29,180,180,3.696,2011,Asia,Computer Science
+M,25-29,180,180,3.696,2011,Asia,Information Systems
+M,25-29,176.5,174.5,3.023,2011,Asia,Information Technology
+M,30-34,170,162,3.155,2011,Other International,Information Systems
+M,25-29,145,136,3.657,2011,Asia,Computer Science
+M,25-29,181,173,3.482,2011,Pacific,Computer Science
+M,25-29,169,140.5,2.791,2012,Pacific,Information Technology
+M,25-29,134,134,3.731,2013,Pacific,Computer Science
+F,22-24,144,137,3.628,2013,Hawaii,Computer Science
+F,30-34,166,143,2.667,2014,Hawaii,Information Systems
+M,25-29,123,104.5,2.686,2014,Pacific,Information Technology
+M,25-29,151,134,3.359,2015,Asia,Computer Science
+M,25-29,166,135,2.847,2015,US Mainland,Computer Science
+M,22-24,142.5,130,3.25,2015,US Mainland,Information Technology
+M,22-24,154,154,3.782,2015,US Mainland,Computer Science
+M,22-24,145,145,3.507,2015,Hawaii,Information Technology
+M,22-24,144,135,2.906,2015,US Mainland,Information Technology
+F,25-29,128,128,3.766,2015,Asia,Information Systems
+F,18-21,113,111,3.466,2016,Hawaii,Information Systems
+M,25-29,132,129,3.795,2016,Pacific,Computer Science
+M,25-29,110,107,3.588,2017,Other International,Information Technology
+M,25-29,167,153,2.541,2017,Asia,Information Technology
+M,25-29,101,101,4,2018,US Mainland,Computer Science
+M,25-29,161,156,3.808,2018,Hawaii,Computer Science
+F,22-24,177,168,3.546,2018,Asia,Information Systems
+M,25-29,144,126,2.85,2018,Pacific,Information Technology
+M,25-29,190,172,3.367,2019,Asia,Information Systems
+M,25-29,153,153,3.534,2019,Hawaii,Information Technology
+M,22-24,110,110,3.525,2019,US Mainland,Computer Science
+M,25-29,164,163,3.629,2019,Asia,Information Technology
+M,25-29,158,154,3.299,2019,Pacific,Information Technology
